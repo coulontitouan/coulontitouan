@@ -4,7 +4,7 @@
 📍 Orléans, France  
 
 Sur ce GitHub, vous pouvez retrouver les projets réalisés durant mes années d'études ainsi que mes projets personnels.<br>
-## Mes languages de prédilection : 
+## Mes langages de prédilection : 
 ```py
 # Python
 print("Hello World!")
